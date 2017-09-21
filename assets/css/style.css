@@ -1,0 +1,60 @@
+.wrapper {
+	width: 95%;
+	margin-left: 25px;
+}
+
+.jumbotron {
+       background: url('../images/blurryPic.jpg') no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+			 margin-bottom: 0px;
+}
+
+
+#text-center {
+
+	color: white;
+}
+/*
+
+.signInForm {
+	background: url('../images/blurryPic.jpg');
+}
+
+*/
+
+/* 
+
+#events {
+	display: none;
+}
+*/
+
+.card {
+	height: 300px;
+	width: 400px;
+}
+
+.inner-card {
+	height: 300px;
+	width: 150px;
+	float: left;
+}
+
+#title {
+	color: white;
+}
+
+#catch-phrase {
+	color: white;
+}
+
+
+
+	#calendar {
+		margin: 0 auto;
+		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+		font-size: 14px;
+	}
